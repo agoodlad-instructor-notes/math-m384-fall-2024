@@ -7,3 +7,4 @@ My lecture notes for this class are divided by chapters on the book we use, whic
 Here are my lecture notes for this class:
 
 %UPLOAD THE NOTES AND LINK THEM HERE
+%POSSIBLY MENTION OPTIONAL COURSE NOTES
