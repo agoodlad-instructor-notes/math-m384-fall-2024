@@ -1,3 +1,3 @@
-## James E. Davis High School 2022-2023 Trimester 1 Lecture Notes
+## Math-M384 Logic Fall 2024 Indiana University East Lecture Notes
 
-Here are my lecture notes during the time I taught at the James E. Davis school:
+Here are my lecture notes for this class:
