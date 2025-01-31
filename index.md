@@ -8,19 +8,31 @@ My lecture notes for this class, which I would give during my weekly online offi
 Here are my (regular) lecture notes for this class:
 
 %PROVIDE DATES AND CHAPTERS THEY COVER
-Week 1 Office Hour Notes
-Week 2 Office Hour Notes
-Week 3 Office Hour Notes
-Week 4 Office Hour Notes
-Week 5 Office Hour Notes
-Week 6 Office Hour Notes
-Week 7 Office Hour Notes
-Week 8 Office Hour Notes
-Week 9 Office Hour Notes
-Week 10-11 Office Hour Notes
-Week 12-13 Office Hour Notes
-Week 14-15 Office Hour Notes
-Week 16 Office Hour Notes
+-[Week 1 Office Hour Notes](https://agoodlad-instructor-notes.github.io/math-m384-fall-2024/fall-2024-week-1-office-hour-notes.pdf)
+
+-[Week 2 Office Hour Notes](https://agoodlad-instructor-notes.github.io/math-m384-fall-2024/fall-2024-week-2-office-hour-notes.pdf)
+
+-[Week 3 Office Hour Notes](https://agoodlad-instructor-notes.github.io/math-m384-fall-2024/fall-2024-week-3-office-hour-notes.pdf)
+
+-[Week 4 Office Hour Notes](https://agoodlad-instructor-notes.github.io/math-m384-fall-2024/fall-2024-week-4-office-hour-notes.pdf)
+
+-[Week 5 Office Hour Notes](https://agoodlad-instructor-notes.github.io/math-m384-fall-2024/fall-2024-week-5-office-hour-notes.pdf)
+
+-Week 6 Office Hour Notes
+
+-Week 7 Office Hour Notes
+
+-Week 8 Office Hour Notes
+
+-Week 9 Office Hour Notes
+
+-Week 10-11 Office Hour Notes
+
+-Week 12-13 Office Hour Notes
+
+-Week 14-15 Office Hour Notes
+
+-Week 16 Office Hour Notes
 
 NOTE:
 %MENTION OMISSIONS WITH THE HOMEWORK
@@ -29,6 +41,8 @@ In addition to regular office hours, I also hosted additional office hours where
 
 Concepts these optional office hour notes (linked below) cover include natural deduction for sentential logic; computable sets/functions; naive set theory and paradoxes; the axioms of ZFC Set Theory; ordinal and cardinal numbers; Godel numbering; and the first and second Godel's incompleteness theorems.
 
-Optional Office Hours Part I Notes
-Optional Office Hours Part II Notes
-Optional Office Hours Part III Notes
+-Optional Office Hours Part I Notes
+
+-Optional Office Hours Part II Notes
+
+-Optional Office Hours Part III Notes
