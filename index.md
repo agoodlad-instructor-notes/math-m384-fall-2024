@@ -19,19 +19,19 @@ Here are my (regular) lecture notes for this class:
 
 -[Week 5 Office Hour Notes](https://agoodlad-instructor-notes.github.io/math-m384-fall-2024/fall-2024-week-5-office-hour-notes.pdf)
 
--[Week 6 Office Hour Notes]()
+-[Week 6 Office Hour Notes](https://agoodlad-instructor-notes.github.io/math-m384-fall-2024/fall-2024-week-6-office-hour-notes.pdf)
 
--[Week 7 Office Hour Notes]()
+-[Week 7 Office Hour Notes](https://agoodlad-instructor-notes.github.io/math-m384-fall-2024/fall-2024-week-7-office-hour-notes.pdf)
 
--[Week 8 Office Hour Notes]()
+-[Week 8 Office Hour Notes](https://agoodlad-instructor-notes.github.io/math-m384-fall-2024/fall-2024-week-8-office-hour-notes.pdf)
 
 -Week 9 Office Hour Notes omitted to not reveal homework solutions
 
--Week 10-11 Office Hour Notes
+-[Week 10-11 Office Hour Notes](https://agoodlad-instructor-notes.github.io/math-m384-fall-2024/fall-2024-week-10-11-office-hour-notes.pdf)
 
--Week 12-13 Office Hour Notes
+-[Week 12-13 Office Hour Notes](https://agoodlad-instructor-notes.github.io/math-m384-fall-2024/fall-2024-week-12-13-office-hour-notes.pdf)
 
--Week 14-15 Office Hour Notes
+-[Week 14-15 Office Hour Notes](https://agoodlad-instructor-notes.github.io/math-m384-fall-2024/fall-2024-week-14-15-office-hour-notes.pdf)
 
 -Week 16 Office Hour Notes
 
