@@ -8,6 +8,7 @@ My lecture notes for this class, which I would give during my weekly online offi
 Here are my (regular) lecture notes for this class:
 
 %PROVIDE DATES AND CHAPTERS THEY COVER
+
 -[Week 1 Office Hour Notes](https://agoodlad-instructor-notes.github.io/math-m384-fall-2024/fall-2024-week-1-office-hour-notes.pdf)
 
 -[Week 2 Office Hour Notes](https://agoodlad-instructor-notes.github.io/math-m384-fall-2024/fall-2024-week-2-office-hour-notes.pdf)
