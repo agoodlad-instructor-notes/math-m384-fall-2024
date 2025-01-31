@@ -33,7 +33,7 @@ Here are my (regular) lecture notes for this class:
 
 -[Week 14-15 Office Hour Notes](https://agoodlad-instructor-notes.github.io/math-m384-fall-2024/fall-2024-week-14-15-office-hour-notes.pdf)
 
--Week 16 Office Hour Notes
+-[Week 16 Office Hour Notes](https://agoodlad-instructor-notes.github.io/math-m384-fall-2024/fall-2024-week-16-office-hour-notes.pdf)
 
 NOTE:
 %MENTION OMISSIONS WITH THE HOMEWORK
@@ -42,8 +42,8 @@ In addition to regular office hours, I also hosted additional office hours where
 
 Concepts these optional office hour notes (linked below) cover include natural deduction for sentential logic; computable sets/functions; naive set theory and paradoxes; the axioms of ZFC Set Theory; ordinal and cardinal numbers; Godel numbering; and the first and second Godel's incompleteness theorems.
 
--Optional Office Hours Part I Notes
+-[Optional Office Hours Part I Notes](https://agoodlad-instructor-notes.github.io/math-m384-fall-2024/fall-2024-optional-office-hours-part-I-notes.pdf)
 
--Optional Office Hours Part II Notes
+-[Optional Office Hours Part II Notes](https://agoodlad-instructor-notes.github.io/math-m384-fall-2024/fall-2024-optional-office-hours-part-II-notes.pdf)
 
--Optional Office Hours Part III Notes
+-[Optional Office Hours Part III Notes](https://agoodlad-instructor-notes.github.io/math-m384-fall-2024/fall-2024-optional-office-hours-part-III-notes.pdf)
